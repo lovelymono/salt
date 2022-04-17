@@ -1,0 +1,9 @@
+[package]
+name = "ring"
+version = "0.0.1"
+edition = "2021"
+license = "0BSD"
+authors = ["Lena Milizé <me@lvmn.org>"]
+
+[dependencies]
+rug = "~1.15.0"
