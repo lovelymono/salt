@@ -1,4 +1,4 @@
-# ring
+# salt
 
 Implementation of cryptographic primitives in Rust[^1].
 
