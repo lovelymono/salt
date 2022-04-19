@@ -1,5 +1,4 @@
 #![doc(html_logo_url = "https://raw.githubusercontent.com/lovelymono/salt/default/assets/salt-clear.png")]
-#![doc(html_favicon_url = "https://raw.githubusercontent.com/lovelymono/salt/default/assets/salt-clear.svg")]
 
 #[cfg(test)]
 mod tests {
